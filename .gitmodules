@@ -1,0 +1,6 @@
+[submodule "src/test/src/main"]
+	path = src/test/src/main
+	url = https://github.com/Reindeerdiv/nodecrud.git
+[submodule "src/test/nodecrud"]
+	path = src/test/nodecrud
+	url = https://github.com/Reindeerdiv/nodecrud.git
